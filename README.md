@@ -1,6 +1,6 @@
 # merge-solo
 
-that
+this
 is
-good
+some
 text
